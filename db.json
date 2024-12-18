@@ -1,4 +1,18 @@
 {
+  "products":[
+    {
+      "id":1,
+      "name":"smart phone"
+    },
+    {
+      "id":2,
+      "name":"washing machine "
+    },
+    {
+      "id":3,
+      "name":"laptob "
+    }
+  ],
   "posts": [
     {
       "id": "1",
