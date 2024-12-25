@@ -1,4 +1,6 @@
+
 {
+  
   "users":[
     {
       "id": 1,
@@ -24,7 +26,9 @@
   ],
   "fullstacjappassignmentbackend":[
     {
-
+      "name":"Gowsalya",
+      "email":"gowsalyabca1215@gmail.com",
+      "mobile":"9846284633"
     }
   ]
   
