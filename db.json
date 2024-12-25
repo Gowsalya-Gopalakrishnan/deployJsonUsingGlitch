@@ -1,6 +1,7 @@
+
 {
-  "fullstack":{
-    "users":[
+  
+  "users":[
     {
       "id": 1,
       "name":"Alice"
@@ -30,7 +31,5 @@
       "mobile":"9846284633"
     }
   ]
- 
-  }
-   
+  
 }
