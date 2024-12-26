@@ -10,7 +10,17 @@
         "optionD": "DELETE",
         "correctOption": "C",
         "reviewStatus": false
-      }
+      },
+      {
+        "title": "What's capital of india",
+        "optionA": "GET",
+        "optionB": "POST",
+        "optionC": "PATCH",
+        "optionD": "DELETE",
+        "correctOption": "C",
+        "reviewStatus": false
+      
+    }
       
     
   ]
