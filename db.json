@@ -23,6 +23,51 @@
     }
       
     
-  ]
+  ],
+  "practicebackend":[
+    {
+      
+    }
+  ],
+  
+    "fullstacjappassignmentbackend": [
+      {
+        "email": "22pa58@anjaconline.org",
+        "password": "123",
+        "mobile": "4532456742",
+        "id": 1
+      },
+      {
+        "uname": "Alice",
+        "email": "a@123",
+        "password": "123",
+        "mobile": "9344005787",
+        "id": 2
+      },
+      {
+        "uname": "Gowsalya",
+        "email": "gowsalyabca1215@gmail.com",
+        "password": "123",
+        "mobile": "9344005787",
+        "id": 3
+      },
+      {
+        "obj": {
+          "uname": "jk",
+          "email": "jhib",
+          "password": "khjkj",
+          "mobile": "23543"
+        },
+        "id": 4
+      },
+      {
+        "uname": "queen",
+        "email": "q@123423",
+        "password": "235423",
+        "mobile": "4564233422",
+        "id": 5
+      }
+    ]
+  
   
 }
